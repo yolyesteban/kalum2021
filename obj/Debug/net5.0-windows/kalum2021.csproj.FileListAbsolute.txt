@@ -24,3 +24,5 @@ C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\
 C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\UsuariosView.baml
 C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\RoleView.g.cs
 C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\RoleView.baml
+C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\UsuarioView.g.cs
+C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\UsuarioView.baml

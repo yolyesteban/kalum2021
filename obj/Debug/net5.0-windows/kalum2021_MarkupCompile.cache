@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 c:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\App.xaml
-31908845746
+4-1556634303
 
-141358630013
+16-437864399
 1931182725112
-MainWindow.xaml;Views\RoleView.xaml;Views\UsuariosView.xaml;
+MainWindow.xaml;Views\RoleView.xaml;Views\UsuariosView.xaml;Views\UsuarioView.xaml;
 
-True
+False
 

@@ -65,7 +65,7 @@ namespace kalum2021
 
         public void VentanaRoles(object sender, RoutedEventArgs e)
         {
-            RoleView VentanaRoles = new RoleView();
+            RolesView VentanaRoles = new RolesView();
             VentanaRoles.ShowDialog();
         }
     }

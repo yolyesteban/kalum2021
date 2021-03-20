@@ -22,7 +22,9 @@ C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\
 C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\kalum2021.genruntimeconfig.cache
 C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\UsuariosView.g.cs
 C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\UsuariosView.baml
-C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\RoleView.g.cs
-C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\RoleView.baml
 C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\UsuarioView.g.cs
 C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\UsuarioView.baml
+C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\RolesView.g.cs
+C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\RolesView.baml
+C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\RolView.g.cs
+C:\Users\Yoly\Documents\KINAL\NET\dev\clase2\kalum2021\obj\Debug\net5.0-windows\Views\RolView.baml

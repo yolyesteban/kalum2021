@@ -1,8 +1,9 @@
-<Window x:Class="kalum2021.Views.RolView"
+<mah:MetroWindow x:Class="kalum2021.Views.RolView"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"        
         xmlns:local="clr-namespace:kalum2021"
         mc:Ignorable="d"
         Title="Roles" Height="450" Width="800" WindowStartupLocation="CenterScreen" Name="FormularioRol" >
@@ -17,11 +18,8 @@
             <ColumnDefinition/>            
         </Grid.ColumnDefinitions>
 
-        <Label Content="Id" Grid.Row= "0" Grid.Column= "0" />
-        <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding Id}" />
-
-        <Label Content="Nombre" Grid.Row="1" Grid.Column="0" />
-        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Nombre}" />
+        <Label Content="Nombre" Grid.Row= "0" Grid.Column= "0" />
+        <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding Nombre}" />
 
         <!--<DataGrid SelectedItem ="{Binding Seleccionado}" Grid.Row="0" Grid.Column = "0" ItemsSource = "{Binding usuarios}" AutoGenerateColumns = "true"></DataGrid> -->
         <StackPanel Grid.Row= "2" Grid.Column = "0" Orientation="Horizontal">
@@ -31,4 +29,4 @@
         </StackPanel>
 
     </Grid>
-</Window> 
+</mah:MetroWindow> 

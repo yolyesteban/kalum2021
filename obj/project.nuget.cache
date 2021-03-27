@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ix4GPUHPExDbNXr1bV0LZKVPgBOzG6WdYVUG3yNjdVuKjLuRJMN1+fAqXm8gV+GeXSBF4c8Cm/USg2pVnmxGkA==",
+  "dgSpecHash": "ej5yVGVvFhcUUnviTQbM0qtn5dOzc41wVi6Q5tuOYiQ3F7yD91b6pmsnS9rEJlzIU8B4aKjpH35otdEuTRY9IQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Yoly\\Documents\\KINAL\\NET\\dev\\clase2\\kalum2021\\kalum2021.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoly\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\Yoly\\.nuget\\packages\\mahapps.metro\\2.4.4\\mahapps.metro.2.4.4.nupkg.sha512",
+    "C:\\Users\\Yoly\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\Yoly\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
   "logs": []
 }
